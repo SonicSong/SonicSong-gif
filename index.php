@@ -28,7 +28,7 @@
     <div class="footer">
         <p>Made with pure PHP and probably some fun.<br>
             © Sonic Song 2022. Source code available on
-            <a href="https://github.com/SonicSong/">Github</a>
+            <a href="https://github.com/SonicSong/SonicSong-gif">Github</a>
         </p>
     </div>
 </body>
