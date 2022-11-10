@@ -50,3 +50,9 @@ a, a:visited {
     padding-left: 1.5em;
     padding-right: 1.5em;
 }
+
+@media screen and (max-width: 600px) {
+    .footer {
+        margin-bottom: 2em;
+    }
+}
