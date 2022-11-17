@@ -17,9 +17,11 @@
         <hr>
         <div class="images">
             <?php
-            $fileList = glob('gif/*');
-            foreach($fileList as $gif_item){
-                echo "<a href='$gif_item' class='imagbt'><img src='$gif_item' class='imagfu' alt='$gif_item'></a>";
+            $gifList = glob('gif/*.gif');
+            $pngList = glob('gif/*.gif.png');
+
+            foreach(array_combine($gifList, $pngList) as $stuff => $static){
+                echo "<a href='$stuff' class='imagbt'><img src='$static' class='imagfu' alt='$static'>";
             }
             ?>
             <!-- I'm doing it just for fun so don't complain -->
