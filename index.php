@@ -21,7 +21,7 @@
             $pngList = glob('gif/*.gif.png');
 
             foreach(array_combine($gifList, $pngList) as $gif_e => $png_e){
-                echo "<a href='$gif_e' class='imagbt'><img src='$png_e' class='imagfu' alt='$png_e'>";
+                echo "<a href='$gif_e' class='imagbt'><img src='$png_e' class='imagfu' alt='$png_e'></a>";
             }
             ?>
             <!-- I'm doing it just for fun so don't complain -->
