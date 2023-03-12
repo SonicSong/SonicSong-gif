@@ -1,4 +1,8 @@
 # SonicSong-gif
-This is just my collection of gifs that I've collected over the years.
+A webiste that displays my collections of gifs
 
-And yes I'm aware that some of them are inappropriate
+## How to use
+1. Create folder named gif.
+2. Copy all gifs to that folder.
+3. Use gif_to_png.sh script so website will load faster.
+4. Done!
