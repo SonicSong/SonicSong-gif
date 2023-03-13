@@ -12,7 +12,7 @@
         <div class="text">
             <p>This is just my collection of gifs that I've collected over the years.</p>
             <p>And yes I'm aware that some of them are inappropriate</p>
-            <a href="https://sonicsong.me/">Homepage</a>
+            <a href="https://sonicsong.xyz/">Homepage</a>
         </div>
         <hr>
         <div class="images">
